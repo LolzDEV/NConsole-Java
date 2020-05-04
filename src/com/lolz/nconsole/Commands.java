@@ -1,3 +1,5 @@
+package com.lolz.nconsole;
+
 import com.sun.istack.internal.Nullable;
 
 import java.util.ArrayList;

@@ -1,3 +1,5 @@
+package com.lolz.nconsole;
+
 import java.util.Scanner;
 
 public class Console {

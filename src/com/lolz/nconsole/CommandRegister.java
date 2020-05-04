@@ -1,6 +1,7 @@
+package com.lolz.nconsole;
+
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.function.Consumer;
 
 public class CommandRegister {
     ArrayList<Commands> commands = new ArrayList<>();
